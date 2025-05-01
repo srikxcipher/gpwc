@@ -1,21 +1,27 @@
-# Timberman Game
+# timberman.game 🕹️
+<table>
+  <tr>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNoeHFvM2VjNnFrMGNyODI0Z2NzYTgxN25kN3R6YnU0eW0xc3RmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aCRtBu8bo5JiLjfe8N/giphy.gif" alt="GIF" />
+    </td>
+    <td>
+      Timberman is a fun and engaging game where players take on the role of a lumberjack chopping down a tree while avoiding obstacles. It challenges quick thinking and reflexes, making it a perfect pastime for gamers of all ages.
+    </td>
+  </tr>
+</table>
 
-Welcome to the **Timberman Game** repository! This project is a recreation of the classic Timberman arcade game, implemented entirely in C++. Timberman is a simple yet addictive game where the player chops down a tree while avoiding its branches.
+
+
+## Screenshots
+
+| Gameplay Demo                                       | Game Interface                                     |
+|----------------------------------------------------|--------------------------------------------------|
+| ![Gameplay](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdpdjVmMWl1cWV1Z2RndWd0YWFzM3Q0eWl2djhjNGJ3b2RyeWk1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif) | ![Game UI Placeholder](https://via.placeholder.com/300x200) |
 
 ---
 
-## Table of Contents
 
-1. [About the Game](#about-the-game)
-2. [Features](#features)
-3. [Game Rules](#game-rules)
-4. [Installation](#installation)
-5. [How to Play](#how-to-play)
-6. [Project Structure](#project-structure)
-7. [Contributing](#contributing)
-8. [License](#license)
 
----
 
 ## About the Game
 
@@ -117,9 +123,13 @@ Contributions are welcome! If you'd like to improve this project, please follow 
    git push origin feature-name
    ```
 5. Open a Pull Request.
-
 ---
 
+## Contact
+
+For any queries or feedback, feel free to reach out:
+
+- **GitHub**: [@srikxcipher](https://github.com/srikxcipher)
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software as long as the original license is included.
