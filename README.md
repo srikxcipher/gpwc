@@ -130,6 +130,9 @@ Contributions are welcome! If you'd like to improve this project, please follow 
 For any queries or feedback, feel free to reach out:
 
 - **GitHub**: [@srikxcipher](https://github.com/srikxcipher)
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software as long as the original license is included.
